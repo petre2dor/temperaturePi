@@ -1,0 +1,21 @@
+{
+  "name": "tempPi",
+  "version": "0.0.0",
+  "description": "A script that reads temperature from some files and save it into a csv and sends some emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "py",
+    "raspeberrypi",
+    "nodejs",
+    "temperature",
+    "DS18B20"
+  ],
+  "author": "Petre Tudor",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "emailjs": "^1.0.4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "email": {
+        "user":         "randomeaddress",
+        "host":         "smtp.gmail.com",
+        "from":         "TempPi <randomeaddress@gmail.com>",
+        "to":           "List of people <petre@dorkfarm.com>, ",
+        "inReplyTo":    "",
+        "inReplyToErr": "",
+        "pass":         ""
+    }
+}
